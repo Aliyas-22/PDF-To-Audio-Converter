@@ -180,6 +180,26 @@ kubectl scale deployment pdf-audiobook --replicas=2
 
 ---
 
+## ScreenShots
+
+
+<img width="1920" height="1022" alt="Screenshot (559)" src="https://github.com/user-attachments/assets/7b0a014b-8402-41e6-a041-ce8240d50d7e" />
+
+---
+<img width="1920" height="1023" alt="Screenshot (558)" src="https://github.com/user-attachments/assets/0e3438ef-9ded-4a35-94c2-67747f2f8677" />
+
+---
+<img width="1920" height="1015" alt="Screenshot (560)" src="https://github.com/user-attachments/assets/75078eb0-c9fe-4a63-9455-83544d9740bc" />
+
+---
+<img width="1920" height="964" alt="Screenshot (561)" src="https://github.com/user-attachments/assets/e8d05e7b-d8fa-49c3-844a-f39a26f34cba" />
+
+---
+<img width="1920" height="1029" alt="Screenshot (562)" src="https://github.com/user-attachments/assets/3b5c1923-b532-4d47-8c1e-6da2aab35570" />
+
+---
+
+
 ## 👩‍💻 Author
 
 **Aliya Firdous**  
