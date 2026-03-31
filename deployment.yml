@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pdf-audiobook
+  labels:
+    app: pdf-audiobook
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: pdf-audiobook
+  template:
+    metadata:
+      labels:
+        app: pdf-audiobook
+    spec:
+      containers:
+        - name: pdf-audiobook
+          image: aliyafirdous22/pdf-audiobook:v1
+          ports:
+            - containerPort: 8501
+          resources:
+            requests:
+              memory: "256Mi"
+              cpu: "250m"
+            limits:
+              memory: "512Mi"
+              cpu: "500m"
